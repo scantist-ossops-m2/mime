@@ -1,5 +1,5 @@
 # mime
-!
+
 Comprehensive MIME type mapping API. Includes all 600+ types and 800+ extensions defined by the Apache project, plus additional types submitted by the node.js community.
 
 ## Install
